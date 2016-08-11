@@ -6,4 +6,10 @@ body {
 
 h1 {
 	color:#fff;
+	font-size:200px;
+	text-align:center;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 5px;
+    opacity:0.6;
 }
